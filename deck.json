@@ -3,324 +3,324 @@
         "rank":"Deuce",
         "suit":"Clubs",
         "color":"Black",
-        "image":""
+        "image":"2_of_clubs.svg"
     },
     {
         "rank":"Deuce",
         "suit":"Diamonds",
         "color":"Red",
-        "image":""
+        "image":"2_of_diamonds.svg"
     },
     {
         "rank":"Deuce",
         "suit":"Hearts",
         "color":"Red",
-        "image":""
+        "image":"2_of_hearts.svg"
     },
     {
         "rank":"Deuce",
         "suit":"Spades",
         "color":"Black",
-        "image":""
+        "image":"2_of_spades.svg"
     },
     {
         "rank":"Three",
         "suit":"Clubs",
         "color":"Black",
-        "image":""
+        "image":"3_of_clubs.svg"
     },
     {
         "rank":"Three",
         "suit":"Diamonds",
         "color":"Red",
-        "image":""
+        "image":"3_of_diamonds.svg"
     },
     {
         "rank":"Three",
         "suit":"Hearts",
         "color":"Red",
-        "image":""
+        "image":"3_of_hearts.svg"
     },
     {
         "rank":"Three",
         "suit":"Spades",
         "color":"Black",
-        "image":""
+        "image":"3_of_spades.svg"
     },
     {
         "rank":"Four",
         "suit":"Clubs",
         "color":"Black",
-        "image":""
+        "image":"4_of_clubs.svg"
     },
     {
         "rank":"Four",
         "suit":"Diamonds",
         "color":"Red",
-        "image":""
+        "image":"4_of_diamonds.svg"
     },
     {
         "rank":"Four",
         "suit":"Hearts",
         "color":"Red",
-        "image":""
+        "image":"4_of_hearts.svg"
     },
     {
         "rank":"Four",
         "suit":"Spades",
         "color":"Black",
-        "image":""
+        "image":"4_of_spades.svg"
     },
     {
         "rank":"Five",
         "suit":"Clubs",
         "color":"Black",
-        "image":""
+        "image":"5_of_clubs.svg"
     },
     {
         "rank":"Five",
         "suit":"Diamonds",
         "color":"Red",
-        "image":""
+        "image":"5_of_diamonds.svg"
     },
     {
         "rank":"Five",
         "suit":"Hearts",
         "color":"Red",
-        "image":""
+        "image":"5_of_hearts.svg"
     },
     {
         "rank":"Five",
         "suit":"Spades",
         "color":"Black",
-        "image":""
+        "image":"5_of_spades.svg"
     },
     {
         "rank":"Six",
         "suit":"Clubs",
         "color":"Black",
-        "image":""
+        "image":"6_of_clubs.svg"
     },
     {
         "rank":"Six",
         "suit":"Diamonds",
         "color":"Red",
-        "image":""
+        "image":"6_of_diamonds.svg"
     },
     {
         "rank":"Six",
         "suit":"Hearts",
         "color":"Red",
-        "image":""
+        "image":"6_of_hearts.svg"
     },
     {
         "rank":"Six",
         "suit":"Spades",
         "color":"Black",
-        "image":""
+        "image":"6_of_spades.svg"
     },
     {
         "rank":"Seven",
         "suit":"Clubs",
         "color":"Black",
-        "image":""
+        "image":"7_of_clubs.svg"
     },
     {
         "rank":"Seven",
         "suit":"Diamonds",
         "color":"Red",
-        "image":""
+        "image":"7_of_diamonds.svg"
     },
     {
         "rank":"Seven",
         "suit":"Hearts",
         "color":"Red",
-        "image":""
+        "image":"7_of_hearts.svg"
     },
     {
         "rank":"Seven",
         "suit":"Spades",
         "color":"Black",
-        "image":""
+        "image":"7_of_spades.svg"
     },
     {
         "rank":"Eight",
         "suit":"Clubs",
         "color":"Black",
-        "image":""
+        "image":"8_of_clubs.svg"
     },
     {
         "rank":"Eight",
         "suit":"Diamonds",
         "color":"Red",
-        "image":""
+        "image":"8_of_diamonds.svg"
     },
     {
         "rank":"Eight",
         "suit":"Hearts",
         "color":"Red",
-        "image":""
+        "image":"8_of_hearts.svg"
     },
     {
         "rank":"Eight",
         "suit":"Spades",
         "color":"Black",
-        "image":""
+        "image":"8_of_spades.svg"
     },
     {
         "rank":"Nine",
         "suit":"Clubs",
         "color":"Black",
-        "image":""
+        "image":"9_of_clubs.svg"
     },
     {
         "rank":"Nine",
         "suit":"Diamonds",
         "color":"Red",
-        "image":""
+        "image":"9_of_diamonds.svg"
     },
     {
         "rank":"Nine",
         "suit":"Hearts",
         "color":"Red",
-        "image":""
+        "image":"9_of_hearts.svg"
     },
     {
         "rank":"Nine",
         "suit":"Spades",
         "color":"Black",
-        "image":""
+        "image":"9_of_spades.svg"
     },
     {
         "rank":"Ten",
         "suit":"Clubs",
         "color":"Black",
-        "image":""
+        "image":"10_of_clubs.svg"
     },
     {
         "rank":"Ten",
         "suit":"Diamonds",
         "color":"Red",
-        "image":""
+        "image":"10_of_diamonds.svg"
     },
     {
         "rank":"Ten",
         "suit":"Hearts",
         "color":"Red",
-        "image":""
+        "image":"10_of_hearts.svg"
     },
     {
         "rank":"Ten",
         "suit":"Spades",
         "color":"Black",
-        "image":""
+        "image":"10_of_spades.svg"
     },
     {
         "rank":"Jack",
         "suit":"Clubs",
         "color":"Black",
-        "image":""
+        "image":"jack_of_clubs.svg"
     },
     {
         "rank":"Jack",
         "suit":"Diamonds",
         "color":"Red",
-        "image":""
+        "image":"jack_of_diamonds.svg"
     },
     {
         "rank":"Jack",
         "suit":"Hearts",
         "color":"Red",
-        "image":""
+        "image":"jack_of_hearts.svg"
     },
     {
         "rank":"Jack",
         "suit":"Spades",
         "color":"Black",
-        "image":""
+        "image":"jack_of_spades.svg"
     },
     {
         "rank":"Queen",
         "suit":"Clubs",
         "color":"Black",
-        "image":""
+        "image":"queen_of_clubs.svg"
     },
     {
         "rank":"Queen",
         "suit":"Diamonds",
         "color":"Red",
-        "image":""
+        "image":"queen_of_diamonds.svg"
     },
     {
         "rank":"Queen",
         "suit":"Hearts",
         "color":"Red",
-        "image":""
+        "image":"queen_of_hearts.svg"
     },
     {
         "rank":"Queen",
         "suit":"Spades",
         "color":"Black",
-        "image":""
+        "image":"queen_of_spades.svg"
     },
     {
         "rank":"King",
         "suit":"Clubs",
         "color":"Black",
-        "image":""
+        "image":"king_of_clubs.svg"
     },
     {
         "rank":"King",
         "suit":"Diamonds",
         "color":"Red",
-        "image":""
+        "image":"king_of_diamonds.svg"
     },
     {
         "rank":"King",
         "suit":"Hearts",
         "color":"Red",
-        "image":""
+        "image":"king_of_hearts.svg"
     },
     {
         "rank":"King",
         "suit":"Spades",
         "color":"Black",
-        "image":""
+        "image":"king_of_spades.svg"
     },
     {
         "rank":"Ace",
         "suit":"Clubs",
         "color":"Black",
-        "image":""
+        "image":"ace_of_clubs.svg"
     },
     {
         "rank":"Ace",
         "suit":"Diamonds",
         "color":"Red",
-        "image":""
+        "image":"ace_of_diamonds.svg"
     },
     {
         "rank":"Ace",
         "suit":"Hearts",
         "color":"Red",
-        "image":""
+        "image":"ace_of_hearts.svg"
     },
     {
         "rank":"Ace",
         "suit":"Spades",
         "color":"Black",
-        "image":""
+        "image":"ace_of_spades.svg"
     },
     {
         "rank":"Joker",
         "suit":"No Suit",
         "color":"Black",
-        "image":""
+        "image":"black_joker.svg"
     },
     {
         "rank":"Joker",
         "suit":"No Suit",
         "color":"Red",
-        "image":""
+        "image":"red_joker.svg"
     }
 ]
