@@ -1,272 +1,326 @@
 [
     {
-        "rank":"",
-        "suit":"",
+        "rank":"Deuce",
+        "suit":"Clubs",
+        "color":"Black",
         "image":""
     },
     {
-        "rank":"",
-        "suit":"",
+        "rank":"Deuce",
+        "suit":"Diamonds",
+        "color":"Red",
         "image":""
     },
     {
-        "rank":"",
-        "suit":"",
+        "rank":"Deuce",
+        "suit":"Hearts",
+        "color":"Red",
         "image":""
     },
     {
-        "rank":"",
-        "suit":"",
+        "rank":"Deuce",
+        "suit":"Spades",
+        "color":"Black",
         "image":""
     },
     {
-        "rank":"",
-        "suit":"",
+        "rank":"Three",
+        "suit":"Clubs",
+        "color":"Black",
         "image":""
     },
     {
-        "rank":"",
-        "suit":"",
+        "rank":"Three",
+        "suit":"Diamonds",
+        "color":"Red",
         "image":""
     },
     {
-        "rank":"",
-        "suit":"",
+        "rank":"Three",
+        "suit":"Hearts",
+        "color":"Red",
         "image":""
     },
     {
-        "rank":"",
-        "suit":"",
+        "rank":"Three",
+        "suit":"Spades",
+        "color":"Black",
         "image":""
     },
     {
-        "rank":"",
-        "suit":"",
+        "rank":"Four",
+        "suit":"Clubs",
+        "color":"Black",
         "image":""
     },
     {
-        "rank":"",
-        "suit":"",
+        "rank":"Four",
+        "suit":"Diamonds",
+        "color":"Red",
         "image":""
     },
     {
-        "rank":"",
-        "suit":"",
+        "rank":"Four",
+        "suit":"Hearts",
+        "color":"Red",
         "image":""
     },
     {
-        "rank":"",
-        "suit":"",
+        "rank":"Four",
+        "suit":"Spades",
+        "color":"Black",
         "image":""
     },
     {
-        "rank":"",
-        "suit":"",
+        "rank":"Five",
+        "suit":"Clubs",
+        "color":"Black",
         "image":""
     },
     {
-        "rank":"",
-        "suit":"",
+        "rank":"Five",
+        "suit":"Diamonds",
+        "color":"Red",
         "image":""
     },
     {
-        "rank":"",
-        "suit":"",
+        "rank":"Five",
+        "suit":"Hearts",
+        "color":"Red",
         "image":""
     },
     {
-        "rank":"",
-        "suit":"",
+        "rank":"Five",
+        "suit":"Spades",
+        "color":"Black",
         "image":""
     },
     {
-        "rank":"",
-        "suit":"",
+        "rank":"Six",
+        "suit":"Clubs",
+        "color":"Black",
         "image":""
     },
     {
-        "rank":"",
-        "suit":"",
+        "rank":"Six",
+        "suit":"Diamonds",
+        "color":"Red",
         "image":""
     },
     {
-        "rank":"",
-        "suit":"",
+        "rank":"Six",
+        "suit":"Hearts",
+        "color":"Red",
         "image":""
     },
     {
-        "rank":"",
-        "suit":"",
+        "rank":"Six",
+        "suit":"Spades",
+        "color":"Black",
         "image":""
     },
     {
-        "rank":"",
-        "suit":"",
+        "rank":"Seven",
+        "suit":"Clubs",
+        "color":"Black",
         "image":""
     },
     {
-        "rank":"",
-        "suit":"",
+        "rank":"Seven",
+        "suit":"Diamonds",
+        "color":"Red",
         "image":""
     },
     {
-        "rank":"",
-        "suit":"",
+        "rank":"Seven",
+        "suit":"Hearts",
+        "color":"Red",
         "image":""
     },
     {
-        "rank":"",
-        "suit":"",
+        "rank":"Seven",
+        "suit":"Spades",
+        "color":"Black",
         "image":""
     },
     {
-        "rank":"",
-        "suit":"",
+        "rank":"Eight",
+        "suit":"Clubs",
+        "color":"Black",
         "image":""
     },
     {
-        "rank":"",
-        "suit":"",
+        "rank":"Eight",
+        "suit":"Diamonds",
+        "color":"Red",
         "image":""
     },
     {
-        "rank":"",
-        "suit":"",
+        "rank":"Eight",
+        "suit":"Hearts",
+        "color":"Red",
         "image":""
     },
     {
-        "rank":"",
-        "suit":"",
+        "rank":"Eight",
+        "suit":"Spades",
+        "color":"Black",
         "image":""
     },
     {
-        "rank":"",
-        "suit":"",
+        "rank":"Nine",
+        "suit":"Clubs",
+        "color":"Black",
         "image":""
     },
     {
-        "rank":"",
-        "suit":"",
+        "rank":"Nine",
+        "suit":"Diamonds",
+        "color":"Red",
         "image":""
     },
     {
-        "rank":"",
-        "suit":"",
+        "rank":"Nine",
+        "suit":"Hearts",
+        "color":"Red",
         "image":""
     },
     {
-        "rank":"",
-        "suit":"",
+        "rank":"Nine",
+        "suit":"Spades",
+        "color":"Black",
         "image":""
     },
     {
-        "rank":"",
-        "suit":"",
+        "rank":"Ten",
+        "suit":"Clubs",
+        "color":"Black",
         "image":""
     },
     {
-        "rank":"",
-        "suit":"",
+        "rank":"Ten",
+        "suit":"Diamonds",
+        "color":"Red",
         "image":""
     },
     {
-        "rank":"",
-        "suit":"",
+        "rank":"Ten",
+        "suit":"Hearts",
+        "color":"Red",
         "image":""
     },
     {
-        "rank":"",
-        "suit":"",
+        "rank":"Ten",
+        "suit":"Spades",
+        "color":"Black",
         "image":""
     },
     {
-        "rank":"",
-        "suit":"",
+        "rank":"Jack",
+        "suit":"Clubs",
+        "color":"Black",
         "image":""
     },
     {
-        "rank":"",
-        "suit":"",
+        "rank":"Jack",
+        "suit":"Diamonds",
+        "color":"Red",
         "image":""
     },
     {
-        "rank":"",
-        "suit":"",
+        "rank":"Jack",
+        "suit":"Hearts",
+        "color":"Red",
         "image":""
     },
     {
-        "rank":"",
-        "suit":"",
+        "rank":"Jack",
+        "suit":"Spades",
+        "color":"Black",
         "image":""
     },
     {
-        "rank":"",
-        "suit":"",
+        "rank":"Queen",
+        "suit":"Clubs",
+        "color":"Black",
         "image":""
     },
     {
-        "rank":"",
-        "suit":"",
+        "rank":"Queen",
+        "suit":"Diamonds",
+        "color":"Red",
         "image":""
     },
     {
-        "rank":"",
-        "suit":"",
+        "rank":"Queen",
+        "suit":"Hearts",
+        "color":"Red",
         "image":""
     },
     {
-        "rank":"",
-        "suit":"",
+        "rank":"Queen",
+        "suit":"Spades",
+        "color":"Black",
         "image":""
     },
     {
-        "rank":"",
-        "suit":"",
+        "rank":"King",
+        "suit":"Clubs",
+        "color":"Black",
         "image":""
     },
     {
-        "rank":"",
-        "suit":"",
+        "rank":"King",
+        "suit":"Diamonds",
+        "color":"Red",
         "image":""
     },
     {
-        "rank":"",
-        "suit":"",
+        "rank":"King",
+        "suit":"Hearts",
+        "color":"Red",
         "image":""
     },
     {
-        "rank":"",
-        "suit":"",
+        "rank":"King",
+        "suit":"Spades",
+        "color":"Black",
         "image":""
     },
     {
-        "rank":"",
-        "suit":"",
+        "rank":"Ace",
+        "suit":"Clubs",
+        "color":"Black",
         "image":""
     },
     {
-        "rank":"",
-        "suit":"",
+        "rank":"Ace",
+        "suit":"Diamonds",
+        "color":"Red",
         "image":""
     },
     {
-        "rank":"",
-        "suit":"",
+        "rank":"Ace",
+        "suit":"Hearts",
+        "color":"Red",
         "image":""
     },
     {
-        "rank":"",
-        "suit":"",
+        "rank":"Ace",
+        "suit":"Spades",
+        "color":"Black",
         "image":""
     },
     {
-        "rank":"",
-        "suit":"",
+        "rank":"Joker",
+        "suit":"No Suit",
+        "color":"Black",
         "image":""
     },
     {
-        "rank":"",
-        "suit":"",
+        "rank":"Joker",
+        "suit":"No Suit",
+        "color":"Red",
         "image":""
     }
 ]
